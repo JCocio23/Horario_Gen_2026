@@ -22,9 +22,11 @@ La idea es que puedan:
 - 🔄 Tener siempre la versión actualizada  
 - ❓ Evitar confusiones de días u horarios  
 
+## IMPORTANTE
+  Durante la primera semana y media o dos semanas, no tienen prácticas, así que revisen bien en el horario cuales son clases teóricas y cuales son prácticas.
+
 No hay más contenido aquí (por ahora):  
 👉 **este repo existe solo para el horario**.
-
 ---
 
 ## ℹ️ Nota
