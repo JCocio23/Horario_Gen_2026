@@ -4,7 +4,7 @@
 El horario de actividades para mechones se encuentra en la siguiente imagen 👇
 
 🖼️ **Horario:**  
-![Horario Mechones](horario.png)
+![Horario Mechones](HORARIO_26.png)
 
 *(Si no se visualiza correctamente, asegúrate de abrir la imagen directamente desde el repositorio)*
 
