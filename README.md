@@ -1,7 +1,7 @@
 # ⏰📅 Horario Mechones – Ciencias Físicas UdeC 2026-1
 
 ## ⏱️ Horario oficial
-El horario de clases del primer semestre 2026  se encuentra en la siguiente imagen 👇
+El horario de clases del primer semestre 2026 se encuentra en la siguiente imagen 👇
 
 🖼️ **Horario:**  
 ![Horario Mechones](HORARIO_26.png)
@@ -12,7 +12,9 @@ El horario de clases del primer semestre 2026  se encuentra en la siguiente imag
 
 ## 👋 ¡Bienvenidxs!
 
-¡Hola mechones!   
+¡Hola mechones! Bienvenidos a Ciencias Físicas UdeC. Mi nombre es Joaquín Parra (gen 2024, la última con la malla antigua), soy de tercer año (quinto semestre) y soy el dueño de este repositorio. 
+Decidí hacerlo en GitHub pues es una herramienta que verán a lo largo de la carrera (puede que incluso en primer semestre). Si bien puede que estén leyendo esto al entrar, les deseo lo mejor
+durante su primer año universitario.
 Este repositorio fue creado **únicamente** para compartir de forma clara y ordenada el **horario de clases para estudiantes** de **Ciencias Físicas UdeC 2025** ✨📐.
 
 La idea es que puedan:
