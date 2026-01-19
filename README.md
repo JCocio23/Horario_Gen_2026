@@ -1,7 +1,7 @@
-# ⏰📅 Horario Mechones – Ciencias Físicas
+# ⏰📅 Horario Mechones – Ciencias Físicas UdeC
 
 ## ⏱️ Horario oficial
-El horario de actividades para mechones se encuentra en la siguiente imagen 👇
+El horario de clases del primer semestre 2026  se encuentra en la siguiente imagen 👇
 
 🖼️ **Horario:**  
 ![Horario Mechones](HORARIO_26.png)
@@ -26,6 +26,6 @@ No hay más contenido aquí (por ahora 😉):
 ---
 
 ## ℹ️ Nota
-Si el horario cambia, la imagen será actualizada en este mismo repositorio, así que pueden revisarlo cuando lo necesiten 👀📌.
+Si el horario cambia, la imagen será actualizada en este mismo repositorio, así que pueden revisarlo cuando lo necesiten 👀📌, o preguntar por el grupo.
 
 ¡Mucho ánimo en este inicio de semestre! 💪🔥
