@@ -33,4 +33,4 @@ No hay más contenido aquí (por ahora):
 Si el horario cambia, la imagen será actualizada en este mismo repositorio, así que pueden revisarlo cuando lo necesiten 👀📌, o preguntar por el grupo.
 
 ¡Mucho ánimo en este primer semestre! 
-### (Les tocó Navarro en FC1 LOL) 
+
