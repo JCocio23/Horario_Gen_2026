@@ -4,7 +4,7 @@
 El horario de clases del primer semestre 2026 se encuentra en la siguiente imagen 👇
 
 🖼️ **Horario:**  
-![Horario Mechones](horario_26__1.png)
+![Horario Mechones](horario_26_1.png)
 
 *(Si no se visualiza correctamente, asegúrate de abrir la imagen directamente desde el repositorio)*
 
